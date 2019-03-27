@@ -4,7 +4,7 @@ package com.mycony.app;
  * Hello world!
  * First commit
  */
-public class App
+public cla
 {
 
     private final String message = "Hello World!";
