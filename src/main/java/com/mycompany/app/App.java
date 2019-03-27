@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycony.app;
 
 /**
  * Hello world!
@@ -14,11 +14,11 @@ public class App
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
         System.out.println("jenkins");
-        System.out.println("jenkins2");
+        System.out.println("jenkin
     
 
     private final String getMessage() {
-        return message;
+        return mess
     }
 
-}
+
