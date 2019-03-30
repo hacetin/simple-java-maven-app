@@ -8,7 +8,7 @@ public cla
 {
 
     private final String message = "Hello World!";
-
+    int a = 5;
     public App() {}
 
     public static void main(String[] args) {
